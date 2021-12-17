@@ -24,3 +24,32 @@
 
 ### Server runs on http://localhost:5000 and client on http://localhost:3000
 
+## Interface 
+
+### Home Page
+
+![alt](https://github.com/KumarKhailendra/instakilo-instagram-clone/blob/5f23e5c4c8f5c761310fae901da92f1f63ddf85c/screenshort/home.png)
+
+### Discover Page
+
+![alt](https://github.com/KumarKhailendra/instakilo-instagram-clone/blob/5f23e5c4c8f5c761310fae901da92f1f63ddf85c/screenshort/dicover.png)
+
+
+### Messege Page
+
+![alt](https://github.com/KumarKhailendra/instakilo-instagram-clone/blob/5f23e5c4c8f5c761310fae901da92f1f63ddf85c/screenshort/messege.png)
+
+
+### Messege Page After Chat
+
+![alt](https://github.com/KumarKhailendra/instakilo-instagram-clone/blob/5f23e5c4c8f5c761310fae901da92f1f63ddf85c/screenshort/chat.png)
+
+
+### Notification Page
+
+![alt](https://github.com/KumarKhailendra/instakilo-instagram-clone/blob/5f23e5c4c8f5c761310fae901da92f1f63ddf85c/screenshort/notification.png)
+
+
+### Profile Page
+
+![alt](https://github.com/KumarKhailendra/instakilo-instagram-clone/blob/5f23e5c4c8f5c761310fae901da92f1f63ddf85c/screenshort/profile.png)
